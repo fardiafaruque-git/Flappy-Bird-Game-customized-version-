@@ -7,7 +7,7 @@ The game introduces new features such as lives, collectible items, and score pen
 
 ## ✨ Features  
 
-- ❤️ **Lives System** – Player gets 1 lives at the start.  
+- ❤️ **Lives System** – Player gets 1 live at the start.  
 - 🎯 **Life Collectibles** – Extra life items appear; catching them increases remaining lives. (Max 3 lives)  
 - ⚡ **Score System**  
   - If the player dies but still has lives, the score continues from the last point.  
